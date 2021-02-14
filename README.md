@@ -5,25 +5,16 @@
 - O Projeto foi desenvolvido em Vue.js
 - Usei o axios para consumir a API 
 
-## Project setup
+## Para fazer o projeto rodar
+
+- 1° passo: instalar as bibliotecas necessárias
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+- 2° passo: rodar o projeto!
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
