@@ -1,0 +1,21 @@
+@v3_auth = 7d79b7b222172651eccb31f77ec49bd3
+@v4_auth = eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3ZDc5YjdiMjIyMTcyNjUxZWNjYjMxZjc3ZWM0OWJkMyIsInN1YiI6IjVlZWI2OWIzNmRlYTNhMDAzMmJkYWViZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Vco7Avx5IFLrS9sL04Wp4eCcIMSnJX5Kwp1Lqflb_9s
+###
+https://api.themoviedb.org/3/search/movie?api_key={{v3_auth}}&query=''&language=pt-BR
+####
+https://api.themoviedb.org/3/discover/movie?api_key={{v3_auth}}&with_genre=28
+
+######
+https://api.themoviedb.org/3/genre/movie/list?api_key={{v3_auth}}&language=pt-BR
+######
+# video
+https://api.themoviedb.org/3/movie/464882/videos?api_key={{v3_auth}}
+
+# "w92", "w154", "w185", "w342", "w500", "w780", or "original"
+# http://image.tmdb.org/t/p/w185/srYya1ZlI97Au4jUYAktDe3avyA.jpg
+# http://image.tmdb.org/t/p/original/srYya1ZlI97Au4jUYAktDe3avyA.jpg
+
+
+https://api.themoviedb.org/3/discover/movie?api_key=7d79b7b222172651eccb31f77ec49bd3
+
+https://api.themoviedb.org/3/genre/movie/list?api_key=7d79b7b222172651eccb31f77ec49bd3&language=pt-BR
